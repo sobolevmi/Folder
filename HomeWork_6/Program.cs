@@ -1,4 +1,5 @@
-﻿Console.WriteLine ("Введите число");
+﻿// Проверить, является ли число четным
+Console.WriteLine ("Введите число");
 double number = Convert.ToDouble (Console.ReadLine ());
 if (number %2 == 0)
 {
