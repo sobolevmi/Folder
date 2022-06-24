@@ -1,4 +1,5 @@
-﻿Console.WriteLine ("Введите число: ");
+﻿// Вывести на экран все четные числа от 1 до N
+Console.WriteLine ("Введите число: ");
 int number = Convert.ToInt32 (Console.ReadLine ());
 int i = 1;
 Console.Write (number + " -> ");
