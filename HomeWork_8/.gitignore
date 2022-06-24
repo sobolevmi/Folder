@@ -10,7 +10,7 @@
 *.userosscache
 *.sln.docstates
 obj
-HomeWork_8.csproj
+homework_8.csproj
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
